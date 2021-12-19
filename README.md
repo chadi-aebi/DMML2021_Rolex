@@ -1,5 +1,27 @@
 # DMML2021_Rolex
 
+In the Notebook ["Notebook_Rolex.ipynb"](https://github.com/chadi-aebi/DMML2021_Rolex/blob/main/code/Notebook_Rolex.ipynb) we will proceed as follows:
+
+First we prepare the notebook by importing essential methods and components for text analytics. Then we will start with some preparations such as building a tokenizer with different possible features to apply this later in the classification.
+
+Subsequently, we start the text analytics divided by the different classifiers starting with a baseline calculation.
+Each classifier section starts with a classification without any data preprocessing or other features. Then we tune the hyperparameters for the classifier to find the best parameters. After that, we train models that also implement the preprocessing of data, we try word embeddings and in the end we try out dimensionality reduction and standardisation.
+
+The notebook has the following chapters:
+
+
+
+*   0.1.   Preparation to start working - impor necessary methods etc.
+*   0.2.   Further preparation for classification
+
+
+1.     Baseline calculation
+2.     Logistic Regression
+3.     kNN Classifier
+4.     Decision Tree
+5.     Random Forests
+6.     Linear Support Vector Classification
+
 
 |       | Logistic regression |      kNN   |  Decision Tree  |     Random Forests | Linear SVC   |
 | ----------- | ----------- | ----------- | ----------- | -----------   | ----------- | 
