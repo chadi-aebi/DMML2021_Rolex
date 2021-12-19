@@ -15,12 +15,12 @@ For preparation:
 *   0.2.   Further preparation for classification
 
 Testing different classifiers:
-1.     Baseline calculation
-2.     Logistic Regression
-3.     kNN Classifier
-4.     Decision Tree
-5.     Random Forests
-6.     Linear Support Vector Classification
+* 1.     Baseline calculation
+* 2.     Logistic Regression
+* 3.     kNN Classifier
+* 4.     Decision Tree
+* 5.     Random Forests
+* 6.     Linear Support Vector Classification
 
 After applying different classifiers we got the following outcome for each classifier without doing any preprocessing or hyperparameter tuning:
 
