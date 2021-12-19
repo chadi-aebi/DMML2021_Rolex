@@ -1,4 +1,15 @@
-# DMML2021_Rolex
+# DMML2021 - Team Rolex
+
+## Project description
+It was asked to us to create a model that could help to predict the difficulty of a french text.
+
+## Team members
+- Paula Hess
+- Chadi Aebi
+- Antoine Hassler
+- Imène Ksibi
+
+## How we proceed
 
 In the Notebook ["Notebook_Rolex.ipynb"](https://github.com/chadi-aebi/DMML2021_Rolex/blob/main/code/Notebook_Rolex.ipynb) we will proceed as follows:
 
@@ -31,4 +42,14 @@ After applying different classifiers we got the following outcome for each class
 | Recall   |  0.4595  |  0.3137 |  0.2982  |  0.3838  |  0.4604  |
 | F1-score    |  0.4554  |  0.2913  |  0.2944  |  0.3690  |  0.4557  |
 | Accuracy   |  0.4604  |  0.3156  |  0.2990  |  0.3854  |  0.4615  |
+
+And we got the following outcome for each classifier with processing and hyperparameter tuning:
+
+|       | Logistic regression |      kNN   |  Decision Tree  |     Random Forests | Linear SVC   |
+| ----------- | ----------- | ----------- | ----------- | -----------   | ----------- | 
+| Precision      |  0.  |  0.  |  0.  |  0.  |  0.  |
+| Recall   |  0.  |  0. |  0.  |  0.  |  0.  |
+| F1-score    |  0.  |  0.  |  0.  |  0.  |  0.  |
+| Accuracy   |  0.  |  0.  |  0.  |  0.  |  0.  |
+
 
