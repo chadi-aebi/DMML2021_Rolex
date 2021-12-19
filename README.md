@@ -10,17 +10,19 @@ Each classifier section starts with a classification without any data preprocess
 The notebook has the following chapters:
 
 
-
+For preparation:
 *   0.1.   Preparation to start working - impor necessary methods etc.
 *   0.2.   Further preparation for classification
 
-
+Testing different classifiers:
 1.     Baseline calculation
 2.     Logistic Regression
 3.     kNN Classifier
 4.     Decision Tree
 5.     Random Forests
 6.     Linear Support Vector Classification
+
+After applying different classifiers we got the following outcome for each classifier without doing any preprocessing or hyperparameter tuning:
 
 
 |       | Logistic regression |      kNN   |  Decision Tree  |     Random Forests | Linear SVC   |
