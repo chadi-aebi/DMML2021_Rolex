@@ -53,3 +53,6 @@ And we got the following outcome for each classifier with processing and hyperpa
 | Accuracy   |  0.  |  0.  |  0.  |  0.  |  0.  |
 
 
+
+Link to the youtube video: https://www.youtube.com/watch?v=aIEJij_x8Hc
+
