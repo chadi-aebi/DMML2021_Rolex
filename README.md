@@ -22,7 +22,7 @@ The notebook has the following chapters:
 
 
 For preparation:
-*  Preparation to start working - impor necessary methods etc.
+*  Preparation to start working - import necessary methods etc.
 *  Further preparation for classification
 
 Testing different classifiers:
