@@ -50,7 +50,7 @@ And we got the following outcome for each classifier with processing and hyperpa
 | Precision      |  0.4899  |  0.3392  |  0.3392  |  0.3887  |  0.4771  |
 | Recall   |  0.4927  |  0.3273 |  0.3273  |  0.3912  |  0.4812  |
 | F1-score    |  0.4899  |  0.3224  |  0.3224  |  0.3777  |  0.4776  |
-| Accuracy   |  0.4938  |  0.3281  |  0.3281  |  0.3927  |  0.4823  |
+| Accuracy   |  0.4938  |  0.3281  |  0.3281  |  0.3927  |  0.4906  |
 
 
 Link to the youtube video: https://www.youtube.com/watch?v=aIEJij_x8Hc
