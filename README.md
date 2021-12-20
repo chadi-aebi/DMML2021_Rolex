@@ -4,7 +4,7 @@
 It was asked to us to create a model that could help to predict the difficulty of a french text.
 
 ## Team members
-- Paula Hess
+- Paula Heess
 - Chadi Aebi
 - Antoine Hassler
 - Imène Ksibi
